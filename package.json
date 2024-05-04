@@ -1,18 +1,25 @@
 {
-  "name": "template-eng",
+  "name": "mini-template-engine",
   "version": "1.0.0",
-  "description": "",
+  "description": "O objetivo da Mini Template Engine é fornecer uma solução simples e leve para renderizar modelos de texto dinâmicos em aplicativos da web",
   "main": "index.js",
   "scripts": {
     "test": "vitest"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "template-engine",
+    "typescript"
+  ],
+  "author": "fyoussef",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.12.8",
     "tsx": "^4.9.0",
     "typescript": "^5.4.5",
     "vitest": "^1.6.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/fyoussef/mini-template-engine/issues"
+  },
+  "homepage": "https://github.com/fyoussef/mini-template-engine"
 }
