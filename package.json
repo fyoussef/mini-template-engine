@@ -1,6 +1,6 @@
 {
   "name": "mini-template-engine-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "O objetivo da Mini Template Engine é fornecer uma solução simples e leve para renderizar modelos de texto dinâmicos em aplicativos da web",
   "main": "dist/index.js",
   "scripts": {
